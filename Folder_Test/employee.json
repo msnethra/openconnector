@@ -2,16 +2,22 @@
   {
     "id": 1,
     "name": "Alan",
-    "department": "IT"
+    "department": "IT",
+    "city": "Bangalore",
+    "Country": "India"
   },
   {
     "id": 2,
     "name": "Bob",
     "department": "Finance"
+    "city": "Mumbai",
+    "Country": "India"
   },
   {
     "id": 3,
     "name": "Charlie",
-    "department": "Engineering"
+    "department": "Engineering",
+    "city": "Dusseldorf",
+    "Country": "Germany"
   }
 ]
